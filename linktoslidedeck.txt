@@ -1,0 +1,9 @@
+Hello,
+
+Slide deck is available at this address :
+
+http://rpubs.com/jcohensolal/jcswordpredictor
+
+If it doesn't open on Chrome (it happens), please be kind enough to try another browser.
+
+Thanks.
